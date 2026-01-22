@@ -13,7 +13,7 @@ Caso queira executar o binário:
 bun build-exec
 ```
 
-Para mover o binário do diretório raiz:
+Para mover o binário do diretório na raiz:
 
 ```
 cp merge ~/bun-bin/
