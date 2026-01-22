@@ -1,0 +1,13 @@
+{
+  "name": "bun-shell-test",
+  "scripts": {
+    "build-exec": "bun build ./merge.ts --compile --outfile merge"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
